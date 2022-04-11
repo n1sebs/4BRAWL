@@ -1,7 +1,7 @@
 class BattleUDPServer():
 	
 	def __init__(self, ip, port):
-		super().__init__()
+		pass
 	
 	def start(self):
 		pass
